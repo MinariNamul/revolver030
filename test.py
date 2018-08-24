@@ -1,1 +1,5 @@
-print("hello")
+for i in range(10):
+	if i%2==0:
+		print("hello")
+	else:
+		print("Hi")
